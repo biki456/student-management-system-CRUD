@@ -31,5 +31,5 @@ python studentdb.py
 Enter your MySQL password when prompted.
 
 ## Author
-**Bikita Hait** — MCA Student  
+**Bikita Hait** — Python Full Stack Developer 
 [GitHub](https://github.com/biki456) | [Portfolio](https://biki456.github.io/Portfolio/)
